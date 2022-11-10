@@ -32,6 +32,7 @@ In this experiment we create to networks , one for encoding and one for decoding
 ## PROGRAM
 Developed by : J.DEEPIKA
 Register Number : 212221230016
+```
 
 from tensorflow import keras
 from tensorflow.keras import layers
@@ -106,6 +107,8 @@ for i in range(1, n + 1):
     ax.get_xaxis().set_visible(False)
     ax.get_yaxis().set_visible(False)
 plt.show()
+
+```
 
 
 ## OUTPUT
